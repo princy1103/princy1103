@@ -75,22 +75,19 @@
   <img src="https://streak-stats.demolab.com?user=princy1103&theme=tokyonight" />
 </p>
 
----
 
-## 🏆 GitHub Trophies
 
-<p align="center">
+
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=princy1103&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=princy1103&theme=tokyonight" />
-</p>
+</p> -->
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princy1103&theme=tokyo-night" />
-</p>
----
+
 
 ## 🌐 Connect With Me
 
